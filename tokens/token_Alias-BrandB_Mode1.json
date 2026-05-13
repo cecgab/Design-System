@@ -1,0 +1,70 @@
+{
+  "color": {
+    "background": {
+      "interactive": {
+        "default": {
+          "$type": "color",
+          "$value": "{color.magenta.500}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{color.magenta.100}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.magenta.700}"
+        }
+      }
+    },
+    "border": {
+      "interactive": {
+        "outline": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.magenta.500}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{color.magenta.100}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.magenta.700}"
+          }
+        }
+      }
+    },
+    "text": {
+      "interactive": {
+        "default": {
+          "$type": "color",
+          "$value": "{color.neutral.1000}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{color.neutral.500}"
+        },
+        "outline": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.magenta.500}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{color.magenta.100}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.magenta.700}"
+          }
+        }
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "$type": "string",
+      "$value": "Space Mono"
+    }
+  }
+}
