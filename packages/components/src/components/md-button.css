@@ -1,0 +1,57 @@
+@scope (md-button) {
+  /* Unset makes sure styles don't leak in */
+  :scope,
+  *:where(:not(img, svg):not(svg *)),
+  *::before,
+  *::after {
+    all: unset;
+    display: revert;
+  }
+
+  /* Targets the host element (md-button). Token defaults live in tokens.css. */
+  :scope {
+    /* Display mode for the host element */
+    display: inline-block;
+  }
+  .md-button {
+    text-decoration: none;
+    font-family: var(--md-button-font);
+    font-size: var(--md-button-font-size);
+    font-weight: var(--md-button-font-weight);
+    color: var(--md-button-text);
+    background: var(--md-button-bg);
+    border-color: var(--md-button-border-color);
+    border-width: var(--md-button-border-width);
+    border-style: var(--md-button-border-style);
+    border-radius: var(--md-button-radius);
+    padding: var(--md-button-padding-y) var(--md-button-padding-x);
+    display: inline-flex;
+    cursor: pointer;
+
+    &:not([disabled]):hover {
+      background: var(--md-button-bg-hover);
+    }
+  }
+
+  /* Overrides for primary variant */
+  :scope[variant="primary"] {
+    --md-button-bg: var(--color-primary-bg, #3d33cf);
+    --md-button-bg-hover: var(--color-primary-bg-hover, #3730b5);
+    --md-button-text: var(--color-on-primary, #edf1ff);
+    --md-button-border-color: transparent;
+  }
+  /* Overrides for danger variant */
+  :scope[variant="danger"] {
+    --md-button-bg: var(--color-danger-bg, #fee2e2);
+    --md-button-bg-hover: var(--color-danger-bg-hover, #fecaca);
+    --md-button-text: var(--color-on-danger, #b91c1c);
+    --md-button-border-color: transparent;
+  }
+  /* Overrides for success variant */
+  :scope[variant="success"] {
+    --md-button-bg: var(--color-success-bg, #dcfce7);
+    --md-button-bg-hover: var(--color-success-bg-hover, #bbf7d0);
+    --md-button-text: var(--color-on-success, #064e3b);
+    --md-button-border-color: transparent;
+  }
+}

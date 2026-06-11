@@ -1,0 +1,51 @@
+/* Design tokens — global source of truth, consumed by components via var(). */
+:root {
+  /* Typography */
+  --font-family-body: sans-serif;
+  --font-weight-button: 500;
+  --size-step-0: 1rem;
+
+  /* Spacing */
+  --space-xs: 0.6em;
+  --space-sm: 1em;
+
+  /* Border & radius */
+  --border-width-main: 1px;
+  --border-style-main: solid;
+  --radius-sm: 0.5em;
+
+  /* Surface & text */
+  --color-surface-default: white;
+  --color-surface-default-hover: #fafafa;
+  --color-text-loud: #121812;
+  --color-border-quiet: #eaeaea;
+
+  /* Primary */
+  --color-primary-bg: #3d33cf;
+  --color-primary-bg-hover: #3730b5;
+  --color-on-primary: #edf1ff;
+
+  /* Danger */
+  --color-danger-bg: #fee2e2;
+  --color-danger-bg-hover: #fecaca;
+  --color-on-danger: #b91c1c;
+
+  /* Success */
+  --color-success-bg: #dcfce7;
+  --color-success-bg-hover: #bbf7d0;
+  --color-on-success: #064e3b;
+
+  /* md-button component defaults (override per variant in md-button.css) */
+  --md-button-font: var(--font-family-body, sans-serif);
+  --md-button-font-size: var(--size-step-0, 1rem);
+  --md-button-font-weight: var(--font-weight-button, 500);
+  --md-button-bg: var(--color-surface-default, white);
+  --md-button-bg-hover: var(--color-surface-default-hover, #fafafa);
+  --md-button-text: var(--color-text-loud, #121812);
+  --md-button-padding-x: var(--space-sm, 1em);
+  --md-button-padding-y: var(--space-xs, 0.6em);
+  --md-button-border-color: var(--color-border-quiet, #eaeaea);
+  --md-button-border-width: var(--border-width-main, 1px);
+  --md-button-border-style: var(--border-style-main, solid);
+  --md-button-radius: var(--radius-sm, 0.5em);
+}
