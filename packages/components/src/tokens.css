@@ -6,8 +6,8 @@
   --size-step-0: 1rem;
 
   /* Spacing */
-  --space-xs: 0.6em;
-  --space-sm: 1em;
+  --space-xs: 10px;
+  --space-sm: 40px;
 
   /* Border & radius */
   --border-width-main: 1px;
@@ -42,8 +42,8 @@
   --md-button-bg: var(--color-surface-default, white);
   --md-button-bg-hover: var(--color-surface-default-hover, #fafafa);
   --md-button-text: var(--color-text-loud, #121812);
-  --md-button-padding-x: var(--space-sm, 1em);
-  --md-button-padding-y: var(--space-xs, 0.6em);
+  --md-button-padding-x: var(--space-sm, 16px);
+  --md-button-padding-y: var(--space-xs, 10px);
   --md-button-border-color: var(--color-border-quiet, #eaeaea);
   --md-button-border-width: var(--border-width-main, 1px);
   --md-button-border-style: var(--border-style-main, solid);
