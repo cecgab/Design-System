@@ -1,0 +1,101 @@
+{
+  "border": {
+    "radius": {
+      "large": {
+        "$type": "number",
+        "$value": "{radius.12}"
+      },
+      "medium": {
+        "$type": "number",
+        "$value": "{radius.8}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{radius.4}"
+      }
+    }
+  },
+  "color": {
+    "background": {
+      "interactive": {
+        "default": {
+          "$type": "color",
+          "$value": "{color.neutral.0}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{color.neutral.900}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.neutral.300}"
+        }
+      }
+    },
+    "border": {
+      "interactive": {
+        "outline": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.neutral.0}"
+          },
+          "disable": {
+            "$type": "color",
+            "$value": "{color.neutral.500}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.neutral.300}"
+          }
+        }
+      },
+      "neutral": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      }
+    },
+    "outline": {
+      "focus": {
+        "$type": "color",
+        "$value": "{color.blue.600}",
+        "$description": "This token is used to style the outline element when it is in a focused state."
+      }
+    },
+    "text": {
+      "interactive": {
+        "default": {
+          "$type": "color",
+          "$value": "{color.neutral.1000}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{color.neutral.0}"
+        },
+        "outline": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.neutral.0}"
+          },
+          "disable": {
+            "$type": "color",
+            "$value": "{color.neutral.500}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.neutral.300}"
+          }
+        }
+      },
+      "neutral": {
+        "$type": "color",
+        "$value": "{color.neutral.0}"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "$type": "string",
+      "$value": "{font.family.helvetica}"
+    }
+  }
+}
