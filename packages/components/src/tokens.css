@@ -17,13 +17,13 @@
   /* Surface & text */
   --color-surface-default: white;
   --color-surface-default-hover: #fafafa;
-  --color-text-loud: #121812;
-  --color-border-quiet: #eaeaea;
+  --color-text-loud: #01489f;
+  --color-border-quiet: #01489f;
 
   /* Primary */
-  --color-primary-bg: #3d33cf;
-  --color-primary-bg-hover: #3730b5;
-  --color-on-primary: #edf1ff;
+  --color-primary-bg: #0861ce;
+  --color-primary-bg-hover: #0861ce;
+  --color-on-primary: #ffffff;
 
   /* Danger */
   --color-danger-bg: #fee2e2;

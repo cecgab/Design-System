@@ -23,7 +23,7 @@
     border-color: var(--md-button-border-color);
     border-width: var(--md-button-border-width);
     border-style: var(--md-button-border-style);
-    border-radius: var(--md-button-radius);
+    border-radius: 0px;
     padding: var(--md-button-padding-y) var(--md-button-padding-x);
     display: inline-flex;
     cursor: pointer;

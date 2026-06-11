@@ -14,7 +14,8 @@
     "watch": "elena watch",
     "new": "elena-create",
     "storybook": "storybook dev -p 6006 --no-open",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "chromatic --build-script-name=build-storybook --exit-zero-on-changes"
   },
   "dependencies": {
     "@elenajs/core": "^1.0.0"
@@ -23,6 +24,7 @@
     "@elenajs/bundler": "^1.0.0",
     "@elenajs/cli": "^1.0.0",
     "@storybook/web-components-vite": "^10.4.3",
+    "chromatic": "^17.4.1",
     "lit": "^3.3.3",
     "storybook": "^10.4.3",
     "vite": "^8.0.16"

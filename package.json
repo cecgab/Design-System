@@ -9,6 +9,7 @@
     "watch:lib": "npm run watch --workspace=packages/components",
     "storybook": "npm run storybook --workspace=packages/components",
     "build-storybook": "npm run build-storybook --workspace=packages/components",
+    "chromatic": "npm run chromatic --workspace=packages/components",
     "dev": "concurrently -n lib,sb -c blue,magenta \"npm run watch:lib\" \"npm run storybook\""
   },
   "devDependencies": {
