@@ -1,0 +1,1136 @@
+{
+  "Primitives": {
+    "color": {
+      "blue": {
+        "1000": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.15294117647058825,
+              0.32941176470588235
+            ],
+            "alpha": 1.0,
+            "hex": "#002754"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975694
+          }
+        },
+        "900": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.23529411764705882,
+              0.5215686274509804
+            ],
+            "alpha": 1.0,
+            "hex": "#003c85"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975693
+          }
+        },
+        "800": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.3058823529411765,
+              0.6901960784313725
+            ],
+            "alpha": 1.0,
+            "hex": "#004eb0"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975692
+          }
+        },
+        "700": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.37254901960784315,
+              0.8196078431372549
+            ],
+            "alpha": 1.0,
+            "hex": "#005fd1"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975691
+          }
+        },
+        "600": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.403921568627451,
+              0.8196078431372549
+            ],
+            "alpha": 1.0,
+            "hex": "#0067d1"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975690
+          }
+        },
+        "500": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.12156862745098039,
+              0.5019607843137255,
+              0.8980392156862745
+            ],
+            "alpha": 1.0,
+            "hex": "#1f80e5"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975689
+          }
+        },
+        "400": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.3058823529411765,
+              0.6,
+              0.9686274509803922
+            ],
+            "alpha": 1.0,
+            "hex": "#4e99f7"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975688
+          }
+        },
+        "300": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4823529411764706,
+              0.7019607843137254,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#7bb3ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975687
+          }
+        },
+        "200": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.6627450980392157,
+              0.803921568627451,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#a9cdff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975686
+          }
+        },
+        "100": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8392156862745098,
+              0.9019607843137255,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#d6e6ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975685
+          }
+        },
+        "0": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9607843137254902,
+              0.9764705882352941,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#f5f9ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975684
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855531
+        }
+      },
+      "magenta": {
+        "900": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.30196078431372547,
+              0.0,
+              0.17254901960784313
+            ],
+            "alpha": 1.0,
+            "hex": "#4d002c"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975719
+          }
+        },
+        "800": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.45098039215686275,
+              0.0,
+              0.25882352941176473
+            ],
+            "alpha": 1.0,
+            "hex": "#730042"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975718
+          }
+        },
+        "700": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.6,
+              0.0,
+              0.3411764705882353
+            ],
+            "alpha": 1.0,
+            "hex": "#990057"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975717
+          }
+        },
+        "600": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.7215686274509804,
+              0.0,
+              0.403921568627451
+            ],
+            "alpha": 1.0,
+            "hex": "#b80067"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975716
+          }
+        },
+        "500": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8392156862745098,
+              0.0,
+              0.47058823529411764
+            ],
+            "alpha": 1.0,
+            "hex": "#d60078"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975715
+          }
+        },
+        "400": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9019607843137255,
+              0.14901960784313725,
+              0.5254901960784314
+            ],
+            "alpha": 1.0,
+            "hex": "#e62686"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975714
+          }
+        },
+        "300": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9607843137254902,
+              0.30196078431372547,
+              0.615686274509804
+            ],
+            "alpha": 1.0,
+            "hex": "#f54d9d"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975713
+          }
+        },
+        "200": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.5019607843137255,
+              0.7294117647058823
+            ],
+            "alpha": 1.0,
+            "hex": "#ff80ba"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975712
+          }
+        },
+        "100": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.7019607843137254,
+              0.8352941176470589
+            ],
+            "alpha": 1.0,
+            "hex": "#ffb3d5"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975711
+          }
+        },
+        "0": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.9019607843137255,
+              0.9490196078431372
+            ],
+            "alpha": 1.0,
+            "hex": "#ffe6f2"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975710
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855532
+        }
+      },
+      "neutral": {
+        "1000": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#ffffff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975683
+          }
+        },
+        "900": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9019607843137255,
+              0.9019607843137255,
+              0.9019607843137255
+            ],
+            "alpha": 1.0,
+            "hex": "#e6e6e6"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975682
+          }
+        },
+        "800": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "alpha": 1.0,
+            "hex": "#cccccc"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975681
+          }
+        },
+        "700": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.7019607843137254,
+              0.7019607843137254,
+              0.7019607843137254
+            ],
+            "alpha": 1.0,
+            "hex": "#b3b3b3"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975680
+          }
+        },
+        "600": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.6,
+              0.6,
+              0.6
+            ],
+            "alpha": 1.0,
+            "hex": "#999999"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975679
+          }
+        },
+        "500": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.5019607843137255,
+              0.5019607843137255,
+              0.5019607843137255
+            ],
+            "alpha": 1.0,
+            "hex": "#808080"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975678
+          }
+        },
+        "400": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4,
+              0.4,
+              0.4
+            ],
+            "alpha": 1.0,
+            "hex": "#666666"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975677
+          }
+        },
+        "300": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.30196078431372547,
+              0.30196078431372547,
+              0.30196078431372547
+            ],
+            "alpha": 1.0,
+            "hex": "#4d4d4d"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975676
+          }
+        },
+        "200": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.2,
+              0.2,
+              0.2
+            ],
+            "alpha": 1.0,
+            "hex": "#333333"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975675
+          }
+        },
+        "100": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.10196078431372549,
+              0.10196078431372549,
+              0.10196078431372549
+            ],
+            "alpha": 1.0,
+            "hex": "#1a1a1a"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975674
+          }
+        },
+        "0": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 1.0,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975673
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855533
+        }
+      },
+      "yellow": {
+        "900": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4392156862745098,
+              0.33725490196078434,
+              0.06666666666666667
+            ],
+            "alpha": 1.0,
+            "hex": "#705611"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975709
+          }
+        },
+        "800": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.6509803921568628,
+              0.5058823529411764,
+              0.12156862745098039
+            ],
+            "alpha": 1.0,
+            "hex": "#a6811f"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975708
+          }
+        },
+        "700": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.7843137254901961,
+              0.6235294117647059,
+              0.16470588235294117
+            ],
+            "alpha": 1.0,
+            "hex": "#c89f2a"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975707
+          }
+        },
+        "600": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8862745098039215,
+              0.7254901960784313,
+              0.23137254901960785
+            ],
+            "alpha": 1.0,
+            "hex": "#e2b93b"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975706
+          }
+        },
+        "500": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9764705882352941,
+              0.8156862745098039,
+              0.30196078431372547
+            ],
+            "alpha": 1.0,
+            "hex": "#f9d04d"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975705
+          }
+        },
+        "400": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.984313725490196,
+              0.8392156862745098,
+              0.2
+            ],
+            "alpha": 1.0,
+            "hex": "#fbd633"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975704
+          }
+        },
+        "300": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.8588235294117647,
+              0.30196078431372547
+            ],
+            "alpha": 1.0,
+            "hex": "#ffdb4d"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975703
+          }
+        },
+        "200": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.9019607843137255,
+              0.5019607843137255
+            ],
+            "alpha": 1.0,
+            "hex": "#ffe680"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975702
+          }
+        },
+        "100": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.9411764705882353,
+              0.7215686274509804
+            ],
+            "alpha": 1.0,
+            "hex": "#fff0b8"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975701
+          }
+        },
+        "0": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              0.9764705882352941,
+              0.8980392156862745
+            ],
+            "alpha": 1.0,
+            "hex": "#fff9e5"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975700
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855534
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855530
+      }
+    },
+    "font": {
+      "family": {
+        "poppins": {
+          "$value": "Poppins",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975721
+          }
+        },
+        "helvetica": {
+          "$value": "Helvetica",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 21975720
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855536
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855535
+      }
+    },
+    "radius": {
+      "20": {
+        "$value": 20,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975699
+        }
+      },
+      "16": {
+        "$value": 16,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975698
+        }
+      },
+      "12": {
+        "$value": 12,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975697
+        }
+      },
+      "8": {
+        "$value": 8,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975696
+        }
+      },
+      "4": {
+        "$value": 4,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975695
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855537
+      }
+    },
+    "roundness": {
+      "full": {
+        "$value": 999,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975728
+        }
+      },
+      "xl": {
+        "$value": 100,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975727
+        }
+      },
+      "l": {
+        "$value": 12,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975726
+        }
+      },
+      "m": {
+        "$value": 8,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975725
+        }
+      },
+      "s": {
+        "$value": 4,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975724
+        }
+      },
+      "xs": {
+        "$value": 2,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975723
+        }
+      },
+      "squared": {
+        "$value": 0,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975722
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855538
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 78907
+    }
+  },
+  "Alias": {
+    "border": {
+      "radius": {
+        "large": {
+          "$value": "{Primitives.radius.12}"
+        },
+        "medium": {
+          "$value": "{Primitives.radius.8}"
+        },
+        "small": {
+          "$value": "{Primitives.radius.4}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855541
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855540
+      }
+    },
+    "color": {
+      "background": {
+        "interactive": {
+          "hover": {
+            "$value": "{Primitives.color.neutral.300}"
+          },
+          "disabled": {
+            "$value": "{Primitives.color.neutral.900}"
+          },
+          "default": {
+            "$value": "{Primitives.color.neutral.0}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855544
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855543
+        }
+      },
+      "border": {
+        "neutral": {
+          "$value": "{Primitives.color.neutral.0}"
+        },
+        "interactive": {
+          "outline": {
+            "disable": {
+              "$value": "{Primitives.color.neutral.500}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.neutral.300}"
+            },
+            "default": {
+              "$value": "{Primitives.color.neutral.0}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855547
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855546
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855545
+        }
+      },
+      "outline": {
+        "focus": {
+          "$value": "{Primitives.color.blue.600}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855548
+        }
+      },
+      "text": {
+        "neutral": {
+          "$value": "{Primitives.color.neutral.0}"
+        },
+        "interactive": {
+          "disabled": {
+            "$value": "{Primitives.color.neutral.0}"
+          },
+          "default": {
+            "$value": "{Primitives.color.neutral.1000}"
+          },
+          "outline": {
+            "disable": {
+              "$value": "{Primitives.color.neutral.500}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.neutral.300}"
+            },
+            "default": {
+              "$value": "{Primitives.color.neutral.0}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855551
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855550
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855549
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855542
+      }
+    },
+    "font": {
+      "family": {
+        "$value": "{Primitives.font.family.helvetica}"
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855552
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 78908
+    }
+  },
+  "Alias - Brand A": {
+    "color": {
+      "background": {
+        "interactive": {
+          "hover": {
+            "$value": "{Primitives.color.yellow.700}"
+          },
+          "disabled": {
+            "$value": "{Primitives.color.yellow.100}"
+          },
+          "default": {
+            "$value": "{Primitives.color.yellow.500}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855556
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855555
+        }
+      },
+      "border": {
+        "interactive": {
+          "outline": {
+            "disabled": {
+              "$value": "{Primitives.color.yellow.100}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.yellow.700}"
+            },
+            "default": {
+              "$value": "{Primitives.color.yellow.500}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855559
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855558
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855557
+        }
+      },
+      "text": {
+        "interactive": {
+          "disabled": {
+            "$value": "{Primitives.color.neutral.500}"
+          },
+          "default": {
+            "$value": "{Primitives.color.neutral.1000}"
+          },
+          "outline": {
+            "disabled": {
+              "$value": "{Primitives.color.yellow.100}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.yellow.700}"
+            },
+            "default": {
+              "$value": "{Primitives.color.yellow.500}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855562
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855561
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855560
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855554
+      }
+    },
+    "font": {
+      "family": {
+        "$value": "{Primitives.font.family.poppins}"
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855563
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 78909
+    }
+  },
+  "Alias - Brand B": {
+    "color": {
+      "background": {
+        "interactive": {
+          "hover": {
+            "$value": "{Primitives.color.magenta.700}"
+          },
+          "disabled": {
+            "$value": "{Primitives.color.magenta.100}"
+          },
+          "default": {
+            "$value": "{Primitives.color.magenta.500}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855567
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855566
+        }
+      },
+      "border": {
+        "interactive": {
+          "outline": {
+            "disabled": {
+              "$value": "{Primitives.color.magenta.100}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.magenta.700}"
+            },
+            "default": {
+              "$value": "{Primitives.color.magenta.500}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855570
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855569
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855568
+        }
+      },
+      "text": {
+        "interactive": {
+          "disabled": {
+            "$value": "{Primitives.color.neutral.500}"
+          },
+          "default": {
+            "$value": "{Primitives.color.neutral.1000}"
+          },
+          "outline": {
+            "disabled": {
+              "$value": "{Primitives.color.magenta.100}"
+            },
+            "hover": {
+              "$value": "{Primitives.color.magenta.700}"
+            },
+            "default": {
+              "$value": "{Primitives.color.magenta.500}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 2855573
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 2855572
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 2855571
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855565
+      }
+    },
+    "font": {
+      "family": {
+        "$value": "Space Mono",
+        "$type": "string",
+        "$extensions": {
+          "com.zeroheight.tokenId": 21975770
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 2855574
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 78910
+    }
+  },
+  "$extensions": {
+    "com.zeroheight.tokenSetId": 19430,
+    "com.zeroheight.tokenSetVersionId": 48265
+  }
+}
